@@ -10,7 +10,7 @@ int main()
     cout << "hello class!";
     cout << "how are you?";
     cout << "bye class";
-    cout << "bye teacher.";
+   
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

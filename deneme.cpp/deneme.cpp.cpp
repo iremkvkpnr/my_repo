@@ -9,6 +9,7 @@ int main()
     cout << "Hello World!\n";
     cout << "hello class!";
     cout << "how are you?";
+    cout << "bye class";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
